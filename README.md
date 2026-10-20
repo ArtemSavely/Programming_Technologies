@@ -1,1 +1,1 @@
-# Just a Git Practise 
+# Just a Git Practise
